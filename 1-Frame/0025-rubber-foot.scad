@@ -1,5 +1,5 @@
 // This is a parametric version for the extrusion foot
-// the following parameter for for a 2020 profile with a somewhat beefy flat head screw.
+// the following parameter are for a 2020 profile with a somewhat beefy flat head screw.
 
 // This is a square design since most profiles are square (unless they are not) so the width is also the length
 width = 20;
