@@ -4,28 +4,28 @@
 // This is a square design since most profiles are square (unless they are not) so the width is also the length
 width = 20;
 
-// height is the height of the foot without the 4 knobs that grip into the t-slots. So height is the distance between end of aluminium profile and table.
+// Height is the height of the foot without the 4 knobs that grip into the t-slots. So height is the distance between end of aluminium profile and table.
 height = 15;
 
-// the insert are those 4 knobs that grip into the t-slots of the profile. Insert height is how deep it will grip into the profile.
+// The insert are those 4 knobs that grip into the t-slots of the profile. Insert height is how deep it will grip into the profile.
 insertsHeight = 2;
 
-// Inster width is the distance of the inserts along the edge of the foot
+// Insert width is the distance of the inserts along the edge of the foot
 insertWidth = 5.5;
 
-// Insert Depth is the other corner of the insert.
+// Insert Depth is the other edge of the insert.
 insertDepth = 5.5;
 
-// Screw hole is the clearance radius if the threat part of the screw
+// Screw hole is the clearance radius of the threat part of the screw
 screwHole = 3;
 
-// Screw head is the clearance radius of the head of the screw, in this design i'm assuming you use a flat head screw.
+// Screw head is the clearance radius of the head of the screw.
 screwHead = 5.5;
 
-// screw head recess is how deep the screw will be hidden in the bottom of the foot.
+// Screw head recess is how deep the screw will be hidden in the bottom of the foot.
 screwHeadRecess = 4;
 
-// set this to true if the screws has a flat head, Set this to false for pan head and other screw types that expect a level base
+// Set this to true if the screws has a flat head, Set this to false for pan head and other screw types that expect a level base
 screwIsFlat = true;
 
 // Cut view lets you cut the foot in halt to check the profile of the screw
